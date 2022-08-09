@@ -1,3 +1,4 @@
 Data Driven<BR>
 Power BI<BR>
-DAX
+DAX<BR>
+Power Query
